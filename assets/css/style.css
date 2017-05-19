@@ -1,8 +1,12 @@
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, Serif;
+	
+}
+
 .header {
 	font-family: 'Georgia', Times, Times New Roman, Serif;
 	background-color: #ffffff;
 	border-color: #cccccc;
-
 }
 
 
